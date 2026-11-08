@@ -1,0 +1,13 @@
+// Source - https://stackoverflow.com/q/31169259
+// Posted by MonkeyBonkey, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-11-07, License - CC BY-SA 3.0
+
+{
+    "compilerOptions": {
+        "version": true,
+        "target": "ES5",
+        "module": "commonjs",
+        "ignoreDeprecations": "6.0",
+        "sourceMap": true
+    }
+}
